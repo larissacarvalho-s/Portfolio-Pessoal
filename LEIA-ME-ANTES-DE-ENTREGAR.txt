@@ -1,0 +1,11 @@
+ANTES DE ENVIAR AO PROFESSOR
+
+1. Abra index.html no navegador e confira o site.
+2. No index.html, troque SEU_EMAIL@exemplo.com pelo seu e-mail real (ou remova o link de e-mail).
+3. Confira se o perfil do GitHub https://github.com/Larissakich é o seu.
+4. Crie um repositório público no GitHub e envie index.html, style.css e README.md.
+5. No GitHub, entre em Settings > Pages. Em Build and deployment, escolha Deploy from a branch; selecione main e / (root); salve.
+6. Aguarde a publicação e copie o endereço do GitHub Pages para o README.md.
+7. Envie ao professor os dois links: repositório e site publicado.
+
+IMPORTANTE: o pacote contém o projeto completo, mas os links finais do GitHub Pages só existem depois que você publicar no SEU GitHub. Não envie os links de exemplo como se já estivessem publicados.
